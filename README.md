@@ -1,0 +1,1 @@
+# MYRepository-kaji-sample
